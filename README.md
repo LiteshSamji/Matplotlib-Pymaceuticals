@@ -1,5 +1,16 @@
 # Matplotlib Homework - The Power of Plots
 
+# Analysis and Observations
+
+Skin Cancer reserach based on a total of 249 mice, further anaysis had found duplicate date for particular mouse that had has been driopped by the study, for a total of 248 mice. 
+Total Drug Regimens: 10 
+Total number of studies: 1880 
+Total male mice: 51% 
+Total femail mice: 49% 
+The Drug Capomulin and Ramicane had equal effectiveness with reducing average SCC tumor volume Noted mouse weight had a strong corelation with the size of the tumor
+
+
+
 ## Background
 
 What good is data without a good plot to tell the story?
