@@ -1,15 +1,13 @@
 # Matplotlib - The Power of Plots
 
-# Analysis and Observations
+## Analysis and Observations
 
-Skin Cancer reserach based on a total of 249 mice, further anaysis had found duplicate date for particular mouse that had has been driopped by the study, for a total of 248 mice. 
-Total Drug Regimens: 10 
-Total number of studies: 1880 
-Total male mice: 51% 
-Total femail mice: 49% 
-The Drug Capomulin and Ramicane had equal effectiveness with reducing average SCC tumor volume Noted mouse weight had a strong corelation with the size of the tumor
-
-
+Skin Cancer research based on a total of 249 mice, further analysis had found duplicate date for particular mouse that had has been dropped by the study, for a total of 248 mice. 
+* Total Drug Regimens: 10 
+* Total number of studies: 1880 
+* Total male mice: 51% 
+* Total female mice: 49% 
+* The Drug Capomulin and Ramicane had equal effectiveness with reducing average SCC tumor volume Noted mouse weight had a strong correlation with the size of the tumor
 
 ## Background
 
@@ -94,7 +92,3 @@ Here are some final considerations:
 ## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
